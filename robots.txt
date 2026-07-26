@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://IBICSID.github.io/handbook-q3xtxy/sitemap.xml
